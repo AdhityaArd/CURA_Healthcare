@@ -22,7 +22,7 @@ Module Authentication Test Case:
 Module Booking Appointment Test Case:
 ![]()
 
-[Link Excel Untuk TestCase]()
+[Link Excel Untuk TestCase](https://docs.google.com/spreadsheets/d/1x-clYJGd3HLChAganrc6SlPqFn-XxLtq/edit?usp=sharing&ouid=109266558038495260492&rtpof=true&sd=true)
 
 ## 🛠️ System Requirements 🛠️
 
