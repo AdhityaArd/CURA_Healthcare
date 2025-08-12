@@ -33,7 +33,7 @@ Module Booking Appointment Test Case:
 - Text Editor like Intellij IDEA or VsCode
 - Browser(Firefox)
   
-[![My Skills](https://skillicons.dev/icons?i=java,maven,selenium,idea,vscode,cucumber,testng)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,maven,selenium,idea,vscode,gherkin,jenkins)](https://skillicons.dev)
 
 ## ⚙️ Quick Installation ⚙️
 
