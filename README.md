@@ -26,7 +26,7 @@ Test Case Yang Akan Diuji pada project ini adalah:
 - Text Editor like Intellij IDEA or VsCode
 - Browser(Firefox)
   
-[![My Skills](https://skillicons.dev/icons?i=java,maven,selenium,idea,vscode,gherkin,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,maven,selenium,idea,vscode,gherkin)](https://skillicons.dev)
 
 ## ⚙️ Quick Installation ⚙️
 
