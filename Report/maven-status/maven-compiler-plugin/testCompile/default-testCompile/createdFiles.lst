@@ -1,0 +1,6 @@
+com\Tohsaka\Cucumber\definitions\providers\AuthProviders.class
+com\Tohsaka\Cucumber\definitions\authentications\NegaiveLogin.class
+com\Tohsaka\Cucumber\definitions\booking\PositiveBookingAppointment.class
+com\Tohsaka\Cucumber\definitions\authentications\Hook.class
+com\Tohsaka\Cucumber\runners\RunnerCuraHealthcareTest.class
+com\Tohsaka\Cucumber\definitions\authentications\PositiveLogin.class
