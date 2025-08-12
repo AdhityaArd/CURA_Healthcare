@@ -15,13 +15,6 @@ Test Case Yang Akan Diuji pada project ini adalah:
 - SignIn With Invalid Password
 - Booking Appointment With Valid value
 
-## Overview TestCase
-Module Authentication Test Case:
-![]()
-
-Module Booking Appointment Test Case:
-![]()
-
 [Link Excel Untuk TestCase](https://docs.google.com/spreadsheets/d/1x-clYJGd3HLChAganrc6SlPqFn-XxLtq/edit?usp=sharing&ouid=109266558038495260492&rtpof=true&sd=true)
 
 ## 🛠️ System Requirements 🛠️
