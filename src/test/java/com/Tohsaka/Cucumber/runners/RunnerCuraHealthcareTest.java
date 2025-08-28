@@ -9,6 +9,8 @@ import io.cucumber.testng.CucumberOptions;
         "com.Tohsaka.Cucumber.definitions.authentications",
         "com.Tohsaka.Cucumber.definitions.booking",
 }, plugin = {
-        "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",})
+        "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
+        "json:target/cucumber-reports/CURA.json",
+        "html:target/cucumber-reports/html-report"})
 public class RunnerCuraHealthcareTest extends AbstractTestNGCucumberTests{
 }
