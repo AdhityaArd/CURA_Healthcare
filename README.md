@@ -51,5 +51,7 @@ mvn clean test
 ![](https://github.com/AdhityaArd/CURA_Healthcare/blob/master/Screenshoot/Screenshot%202025-08-28%20105837.png)
 - In Post-Build Action, choose Cucumber Report and insert name of Cucumber Report:
 ![](https://github.com/AdhityaArd/CURA_Healthcare/blob/master/Screenshoot/Screenshot%202025-08-28%20105819.png)
+- after follow the instruction, click apply and save. finally just running this program
+
 
 
