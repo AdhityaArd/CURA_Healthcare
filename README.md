@@ -43,16 +43,13 @@ mvn clean test
 ## Jenkins Integration
 - Before Integration Cucumber to jenkins, we must install Jenkin and Setup First:
 [Link Download Jenkins](https://www.jenkins.io/download/)
-- Module Authentication Test Case:
-![](https://github.com/Adhitya2808/Tugas-Praktikum-Selenium/blob/master/src/Screenshoot/Authentication.png)
+- Make New Project and Choose Maven Project:
+![](https://github.com/AdhityaArd/CURA_Healthcare/blob/master/Screenshoot/Screenshot%202025-08-28%20105905.png)
 - Copy your project link in github and paste in this field:
 ![](https://github.com/AdhityaArd/CURA_Healthcare/blob/master/Screenshoot/img.png)
+- In Build action, just follow like below:
+![](https://github.com/AdhityaArd/CURA_Healthcare/blob/master/Screenshoot/Screenshot%202025-08-28%20105837.png)
 - In Post-Build Action, choose Cucumber Report and insert name of Cucumber Report:
 ![](https://github.com/AdhityaArd/CURA_Healthcare/blob/master/Screenshoot/Screenshot%202025-08-28%20105819.png)
-
-```bash
-# Sample Jenkins pipeline command
-mvn clean test
-```
 
 
