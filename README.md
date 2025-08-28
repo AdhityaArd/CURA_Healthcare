@@ -40,4 +40,10 @@ Running test with the following Command below:
 mvn clean test
 ```
 
+Jenkins Integration
+```bash
+# Sample Jenkins pipeline command
+mvn clean test
+```
+
 
