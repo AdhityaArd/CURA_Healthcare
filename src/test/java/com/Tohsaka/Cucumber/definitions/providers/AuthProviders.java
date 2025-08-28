@@ -1,17 +1,17 @@
 package com.Tohsaka.Cucumber.definitions.providers;
 
 import com.Tohsaka.pages.LoginPage;
-import com.Tohsaka.utils.DriverManager;
+import com.Tohsaka.utils.DriverUtil;
 import org.openqa.selenium.WebDriver;
 
-public class AuthProviders {
-    protected DriverManager driverManager;
+public class AuthProviders extends DriverUtil {
+    protected DriverUtil driverUtil;
     protected WebDriver driver;
     protected LoginPage loginPage;
 
     public void preTest(){
-        driverManager = new DriverManager();
-        driver = driverManager.getDriver();
+        driverUtil = new DriverUtil();
+        driver = driverUtil.getDriver();
         loginPage = new LoginPage(driver);
     }
 
@@ -29,6 +29,6 @@ public class AuthProviders {
     }
 
     public void afterTest(){
-        driverManager.quitDriver();
+        driverUtil.quitDriver();
     }
 }
