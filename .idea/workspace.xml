@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0fc3dd4-a13d-4685-9a29-abc359c0d9d1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Report/ExtentReports/LaporanPengujian 224-Aug-2025 15-07-35/HtmlReport/ExtentHtml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/ExtentReports/LaporanPengujian 224-Aug-2025 15-07-35/PdfReport/ExtentPdf.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/ExtentReports/LaporanPengujian 224-Aug-2025 15-07-35/Reports/Spark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/ExtentReports/LaporanPengujian 224-Aug-2025 15-07-35/test-output/embedded1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/ExtentReports/LaporanPengujian 224-Aug-2025 15-07-35/test-output/embedded2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/ExtentReports/LaporanPengujian 224-Aug-2025 15-07-35/test-output/embedded3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/ExtentReports/LaporanPengujian 224-Aug-2025 15-07-35/test-output/embedded4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/ExtentReports/LaporanPengujian 224-Aug-2025 15-07-35/test-output/embedded5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/ExtentReports/LaporanPengujian 224-Aug-2025 15-07-35/test-output/embedded6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/ExtentReports/LaporanPengujian 224-Aug-2025 16-42-45/HtmlReport/ExtentHtml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/ExtentReports/LaporanPengujian 224-Aug-2025 16-42-45/PdfReport/ExtentPdf.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/ExtentReports/LaporanPengujian 224-Aug-2025 16-42-45/Reports/Spark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/ExtentReports/LaporanPengujian 224-Aug-2025 16-42-45/test-output/embedded1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/ExtentReports/LaporanPengujian 224-Aug-2025 16-42-45/test-output/embedded2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/ExtentReports/LaporanPengujian 224-Aug-2025 16-42-45/test-output/embedded3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/ExtentReports/LaporanPengujian 224-Aug-2025 16-42-45/test-output/embedded4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/ExtentReports/LaporanPengujian 224-Aug-2025 16-42-45/test-output/embedded5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/ExtentReports/LaporanPengujian 224-Aug-2025 16-42-45/test-output/embedded6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/classes/com/Tohsaka/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/classes/com/Tohsaka/pages/BookingPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/classes/com/Tohsaka/pages/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/classes/com/Tohsaka/utils/DriverManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/classes/com/Tohsaka/utils/DriverUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/surefire-reports/CuraHealthcare Test Suite/Authentication.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/surefire-reports/CuraHealthcare Test Suite/Authentication.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/surefire-reports/TestSuite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/surefire-reports/jquery-3.6.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/surefire-reports/junitreports/TEST-com.Tohsaka.Cucumber.runners.RunnerCuraHealthcareTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/surefire-reports/testng-reports1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/surefire-reports/testng-reports2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-classes/com/Tohsaka/Cucumber/definitions/authentications/Hook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-classes/com/Tohsaka/Cucumber/definitions/authentications/NegaiveLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-classes/com/Tohsaka/Cucumber/definitions/authentications/PositiveLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-classes/com/Tohsaka/Cucumber/definitions/booking/PositiveBookingAppointment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-classes/com/Tohsaka/Cucumber/definitions/providers/AuthProviders.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-classes/com/Tohsaka/Cucumber/runners/RunnerCuraHealthcareTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-classes/extent.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-classes/features/Authentication.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-classes/features/Booking.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-classes/suites/CuraHealthcare.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="313HV3Phz6kcqA8ZP1BigL9xj1G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.CucumberProject [clean].executor": "Run",
+    "Maven.CucumberProject [compile].executor": "Run",
+    "Maven.CucumberProject [test].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Administrator/Documents/GitHub/CURA_Healthcare",
+    "onboarding.tips.debug.path": "C:/Users/Administrator/Documents/GitHub/CURA_Healthcare/src/main/java/com/Tohsaka/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.language"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Documents\GitHub\CURA_Healthcare\Output" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Documents\GitHub\CURA_Healthcare\src\test\java\com\Tohsaka\Cucumber\runners" />
+      <recent name="C:\Users\Administrator\Documents\GitHub\CURA_Healthcare\src\test\java\com\Tohsaka\Cucumber\definitions" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0fc3dd4-a13d-4685-9a29-abc359c0d9d1" name="Changes" comment="" />
+      <created>1754745856560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754745856560</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
